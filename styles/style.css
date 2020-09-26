@@ -1,0 +1,30 @@
+#caption {
+    color: grey;
+    font-size: 20px;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+body {
+    background-color: #9FDCFC;
+}
+
+img {
+    border-style: outset;
+}
+
+p {
+    font-family: Georgia, serif;
+    font-size: 24px;
+}
+
+ol {
+    font-style: italic;
+}
+
+footer {
+    background-color: gray;
+    text-align: center;
+}
